@@ -1,0 +1,1 @@
+<div class=" text-3xl text-center bg-emerald-300">This is Analytics Page</div>

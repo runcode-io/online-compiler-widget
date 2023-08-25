@@ -1,0 +1,1 @@
+ <div class=" text-3xl text-center bg-yellow-500">This is lead page </div>
